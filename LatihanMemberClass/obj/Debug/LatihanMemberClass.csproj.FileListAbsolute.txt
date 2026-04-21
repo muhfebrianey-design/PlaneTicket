@@ -1,0 +1,8 @@
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+C:\Users\amikom\source\repos\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
