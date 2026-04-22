@@ -19,7 +19,7 @@ namespace LatihanMemberClass
             PlaneTicket ticket2 = new PlaneTicket();
             ticket2.Origin = "JKT";
             ticket2.Destination = "PKU";
-            ticket2.Cost = 75000;
+            ticket2.Cost = 750000;
             ticket2.Currency = "IDR";
 
             ticket1.PrintSummary();
